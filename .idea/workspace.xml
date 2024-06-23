@@ -37,6 +37,8 @@
     "Application.ConsumerInterface (1).executor": "Run",
     "Application.ConsumerInterface (2).executor": "Run",
     "Application.ConsumerInterface.executor": "Run",
+    "Application.FunctionInterface.executor": "Run",
+    "Application.PredicateInterface.executor": "Run",
     "Application.SupplierInterface.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -45,20 +47,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FunctionInterface">
-    <configuration name="ConsumerInterface (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exemplos.ConsumerInterface" />
-      <module name="dio-java-streams" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exemplos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PredicateInterface">
     <configuration name="ConsumerInterface (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exemplos.ConsumerInterface" />
       <module name="dio-java-streams" />
@@ -98,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PredicateInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exemplos.PredicateInterface" />
+      <module name="dio-java-streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SupplierInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exemplos.SupplierInterface" />
       <module name="dio-java-streams" />
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PredicateInterface" />
         <item itemvalue="Application.FunctionInterface" />
         <item itemvalue="Application.SupplierInterface" />
         <item itemvalue="Application.ConsumerInterface" />
         <item itemvalue="Application.ConsumerInterface (2)" />
-        <item itemvalue="Application.ConsumerInterface (1)" />
       </list>
     </recent_temporary>
   </component>
