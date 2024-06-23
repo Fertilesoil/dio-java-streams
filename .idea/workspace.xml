@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BinaryOperatorInterface.executor": "Run",
     "Application.ConsumerExample.executor": "Run",
     "Application.ConsumerInterface (1).executor": "Run",
     "Application.ConsumerInterface (2).executor": "Run",
@@ -44,12 +45,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PredicateInterface">
-    <configuration name="ConsumerInterface (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exemplos.ConsumerInterface" />
+  <component name="RunManager" selected="Application.BinaryOperatorInterface">
+    <configuration name="BinaryOperatorInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exemplos.BinaryOperatorInterface" />
       <module name="dio-java-streams" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryOperatorInterface" />
         <item itemvalue="Application.PredicateInterface" />
         <item itemvalue="Application.FunctionInterface" />
         <item itemvalue="Application.SupplierInterface" />
         <item itemvalue="Application.ConsumerInterface" />
-        <item itemvalue="Application.ConsumerInterface (2)" />
       </list>
     </recent_temporary>
   </component>
