@@ -38,6 +38,19 @@
     "Application.ConsumerInterface (1).executor": "Run",
     "Application.ConsumerInterface (2).executor": "Run",
     "Application.ConsumerInterface.executor": "Run",
+    "Application.DesafioCinco.executor": "Run",
+    "Application.DesafioDez.executor": "Run",
+    "Application.DesafioDois.executor": "Run",
+    "Application.DesafioDoze.executor": "Run",
+    "Application.DesafioNove.executor": "Run",
+    "Application.DesafioOito.executor": "Run",
+    "Application.DesafioOnze.executor": "Run",
+    "Application.DesafioQuatro.executor": "Run",
+    "Application.DesafioSeis.executor": "Run",
+    "Application.DesafioSete.executor": "Run",
+    "Application.DesafioTres.executor": "Run",
+    "Application.DesafioTreze.executor": "Run",
+    "Application.DesafioUm.executor": "Run",
     "Application.FunctionInterface.executor": "Run",
     "Application.PredicateInterface.executor": "Run",
     "Application.SupplierInterface.executor": "Run",
@@ -45,16 +58,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BinaryOperatorInterface">
-    <configuration name="BinaryOperatorInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exemplos.BinaryOperatorInterface" />
+  <component name="RunManager" selected="Application.DesafioTreze">
+    <configuration name="DesafioDez" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafios.DesafioDez" />
       <module name="dio-java-streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exemplos.*" />
+          <option name="PATTERN" value="desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exemplos.ConsumerInterface" />
+    <configuration name="DesafioDoze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafios.DesafioDoze" />
       <module name="dio-java-streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exemplos.*" />
+          <option name="PATTERN" value="desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exemplos.FunctionInterface" />
+    <configuration name="DesafioNove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafios.DesafioNove" />
       <module name="dio-java-streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exemplos.*" />
+          <option name="PATTERN" value="desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exemplos.PredicateInterface" />
+    <configuration name="DesafioOnze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafios.DesafioOnze" />
       <module name="dio-java-streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exemplos.*" />
+          <option name="PATTERN" value="desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SupplierInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exemplos.SupplierInterface" />
+    <configuration name="DesafioTreze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafios.DesafioTreze" />
       <module name="dio-java-streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exemplos.*" />
+          <option name="PATTERN" value="desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinaryOperatorInterface" />
-        <item itemvalue="Application.PredicateInterface" />
-        <item itemvalue="Application.FunctionInterface" />
-        <item itemvalue="Application.SupplierInterface" />
-        <item itemvalue="Application.ConsumerInterface" />
+        <item itemvalue="Application.DesafioTreze" />
+        <item itemvalue="Application.DesafioDoze" />
+        <item itemvalue="Application.DesafioOnze" />
+        <item itemvalue="Application.DesafioDez" />
+        <item itemvalue="Application.DesafioNove" />
       </list>
     </recent_temporary>
   </component>
